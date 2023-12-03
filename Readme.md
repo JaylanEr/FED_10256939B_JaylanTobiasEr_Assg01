@@ -1,4 +1,4 @@
-# Your Project's Name
+# My Project's Name
 
 My project is a website for a university called Camperd University. It is supposed to showcase some parts of the university to appeal to potential university students for them to enrol into. The website shows a brief introduction to its courses, locations, facilities as well as some reviews from past students. The website aims to let students know more about Camperd University before they apply to a university so as to expand their choices on which one to choose.
 
